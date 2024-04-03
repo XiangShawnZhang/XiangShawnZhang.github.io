@@ -13,8 +13,8 @@ I am a Ph.D. Candidate at the Department of Geography, McGill University. My res
 
 ## News
 
-- **[April. 2024]** Our paper about the fuel poverty impacts of the China's "Clean Heating Program" is accepted to Canadian Economic Assiociation Confernece 2024, Tonronto, Canada.
-- **[March. 2024]** Our paper titled "Rural Household Energy Transition in China: Trends and Challenges" has been publised on Journal of Cleaner Production. 
+- **[April. 2024]** Our paper about the fuel poverty impacts of China's "Clean Heating Program" has been accepted to the Canadian Economic Association Conference 2024, Toronto, Canada.
+- **[March. 2024]** Our paper titled “Rural Household Energy Transition in China: Trends and Challenges” has been published in the Journal of Cleaner Production.
 
 
 {% include_relative _includes/publications.md %}
