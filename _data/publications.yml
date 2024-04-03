@@ -5,4 +5,9 @@ main:
     conference_short: JCLP
     conference: Journal of Cleaner Production <strong>(JCLP)</strong>, 2024.
     image: ./assets/img/CHET_cover.jpg
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
     
