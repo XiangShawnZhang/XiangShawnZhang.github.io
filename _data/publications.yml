@@ -2,8 +2,8 @@ main:
 
   - title: Rural Household Energy Transition in China
     authors: <strong>Xiang Zhang*</strong>, Chris Barrington-Leigh, Brian E Robinson (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference_short: JCLP
+    conference: Journal of Cleaner Production <strong>(JCLP)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
