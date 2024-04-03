@@ -19,8 +19,8 @@ main:
     conference: Indoor Air, 2022
     image: ./assets/img/indoor.jpg
 
-    - title: "Socioeconomic and demographic associations with wintertime air pollution exposures at household, community, and district scales in rural Beijing, China"
-    authors: Xiaoying Li et al.
-    conference_short: EST
-    conference: Environmental Science Technology, 2022
-    image: ./assets/img/equity.jpg
+    - title: "Health and economic benefits of cleaner residential heating in the Beijing–Tianjin–Hebei region in China"
+    authors: <strong>Xiang Zhang</strong>, Yana Jin, Hancheng Dai, Yang Xie, Shiqiu Zhang
+    conference_short: EP
+    conference: Energy Policy, 2019
+    image: ./assets/img/EP.jpg
