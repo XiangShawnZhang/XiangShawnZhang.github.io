@@ -4,7 +4,5 @@ main:
     authors: <strong>Xiang Zhang*</strong>, Chris Barrington-Leigh, Brian E Robinson (*Corresponding authors)
     conference_short: JCLP
     conference: Journal of Cleaner Production <strong>(JCLP)</strong>, 2024.
-    link: https://www.sciencedirect.com/science/article/pii/S0959652624013192#fig5 
-    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/CHET_cover.jpg
     
