@@ -1,11 +1,11 @@
 main:
 
-  - title: Rural Household Energy Transition in China
+  - title: Rural Household Energy Transition in China: Trends and Challenges
     authors: <strong>Xiang Zhang*</strong>, Chris Barrington-Leigh, Brian E Robinson (*Corresponding authors)
     conference_short: JCLP
     conference: Journal of Cleaner Production <strong>(JCLP)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    image: ./assets/img/CHET_cover.png
+    
