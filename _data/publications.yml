@@ -4,8 +4,4 @@ main:
     authors: <strong>Xiang Zhang</strong>, Chris Barrington-Leigh, Brian E Robinson
     conference_short: JCLP
     conference: Journal of Cleaner Production, 2024
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/CHET.jpg
