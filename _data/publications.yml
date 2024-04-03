@@ -1,7 +1,7 @@
 main:
 
-  - title: Rural household energy transition in China: Trends and challenges
-    authors: <strong>Xiang Zhang*</strong>, Chris Barrington-Leigh, and Brian E Robinson (*Corresponding authors)
+   - title: Rural Household Energy Transition in China: Trends and Challenges
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
