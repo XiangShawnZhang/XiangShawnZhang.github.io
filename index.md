@@ -9,7 +9,7 @@ I am a Ph.D. Candidate at the Department of Geography, McGill University. My res
 ## Research Interests
 
 - **Environmental Economics:** air pollution, energy transition, environmental equity
-- **Policy Evaluation :** casual inference, quasi-experiment design
+- **Policy Evaluation :** casual inference, quasi-experimental design
 
 ## News
 
