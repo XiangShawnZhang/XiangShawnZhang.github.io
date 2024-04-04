@@ -12,6 +12,7 @@ main:
     conference_short: JH
     conference: Journal of Hypertension, 2022
     image: ./assets/img/hyper.jpg
+    page: https://journals.lww.com/jhypertension/abstract/2022/10000/effects_of_indoor_and_outdoor_temperatures_on.12.aspx?context=featuredarticles&collectionid=1
 
     
   - title: "Field measurements of indoor and community air quality in rural Beijing before, during, and after the COVID‐19 lockdown"
@@ -19,12 +20,14 @@ main:
     conference_short: IA
     conference: Indoor Air, 2022
     image: ./assets/img/indoor.jpg
+    page: https://onlinelibrary.wiley.com/doi/full/10.1111/ina.13095
 
   - title: "Socioeconomic and demographic associations with wintertime air pollution exposures at household, community, and district scales in rural Beijing, China"
     authors: Xiaoying Li et al.
     conference_short: EST
     conference: Environmental Science & Technology, 2022
     image: ./assets/img/equity.jpg
+    page: https://pubs.acs.org/doi/full/10.1021/acs.est.1c07402?casa_token=ZEltN-hEVFAAAAAA%3AZ0Hbr9mmGergdcmC4lP4DeeaoIhOmA7LY-lCGaykpSeHmhPw4A9FAOJTI099ey2TbNpqjJId5m2-cl8
 
 
   - title: "Health and economic benefits of cleaner residential heating in the Beijing–Tianjin–Hebei region in China"
@@ -32,3 +35,4 @@ main:
     conference_short: EP
     conference: Energy Policy, 2019
     image: ./assets/img/EP.jpg
+    page: https://www.sciencedirect.com/science/article/pii/S0301421518308048?casa_token=Bfddu8kUKbYAAAAA:uuA8muVaHGlFO2Utwb87BOzBQ2DdyKpx-ZSm1aR9ZhxML8fr55SZr5iMpxSlKOoqufgs0rTwiA
