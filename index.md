@@ -26,3 +26,5 @@ I am a Ph.D. Candidate at the Department of Geography, McGill University. My res
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/language.md %}
