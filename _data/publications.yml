@@ -5,7 +5,9 @@ main:
     conference_short: JCLP
     conference: Journal of Cleaner Production, 2024
     image: ./assets/img/CHET.jpg
-    page: https://www.sciencedirect.com/science/article/pii/S0959652624013192 
+    page: https://www.sciencedirect.com/science/article/pii/S0959652624013192
+    PDF: ./assets/file/Rural_Household_Energy_Transition_in_China__Trends_and_Challenges.pdf
+    
 
   - title: "Effects of indoor and outdoor temperatures on blood pressure and central hemodynamics in a wintertime longitudinal study of Chinese adults"
     authors: Talia J Sternbach et al.
