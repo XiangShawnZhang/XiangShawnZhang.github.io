@@ -6,7 +6,7 @@ main:
     conference: Journal of Cleaner Production, 2024
     image: ./assets/img/CHET.jpg
     page: https://www.sciencedirect.com/science/article/pii/S0959652624013192
-    pdf: ./assets/file/Rural_Household_Energy_Transition_in_China__Trends_and_Challenges.pdf
+    pdf: ./assets/files/CHET.pdf
     
 
   - title: "Effects of indoor and outdoor temperatures on blood pressure and central hemodynamics in a wintertime longitudinal study of Chinese adults"
