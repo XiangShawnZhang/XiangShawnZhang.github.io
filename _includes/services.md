@@ -12,5 +12,6 @@
 
   <li><a href="https://www.tandfonline.com/toc/raag20/current"><autocolor>Annals of the American Association of Geographers</autocolor></a></li>
    <li><a href="https://www.sciencedirect.com/journal/economic-analysis-and-policy"><autocolor>Economic Analysis and Policy</autocolor></a></li>
+   <li><a href="https://iopscience.iop.org/journal/2752-5309"><autocolor>Environmental Research: Health</autocolor></a></li>
 
 </ul>
