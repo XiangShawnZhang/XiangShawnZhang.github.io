@@ -14,6 +14,5 @@
    <li><a href="https://www.sciencedirect.com/journal/economic-analysis-and-policy"><autocolor>Economic Analysis and Policy</autocolor></a></li>
    <li><a href="https://iopscience.iop.org/journal/2752-5309"><autocolor>Environmental Research: Health</autocolor></a></li>
    <li><a href="https://www.sciencedirect.com/journal/energy-policy"><autocolor>Energy Policy</autocolor></a></li>
-  <li><a href="https://link.springer.com/journal/12053"><autocolor>Energy Efficiency</autocolor></a></li>
 
 </ul>
