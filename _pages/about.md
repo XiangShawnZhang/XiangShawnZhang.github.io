@@ -20,13 +20,14 @@ redirect_from:
 I am currently a Postdoctoral Fellow in the Department of Sociology at the University of Toronto Scarborough, working with Prof. [Patricia Romero-Lankao](https://discover.research.utoronto.ca/52972-patricia-romerolankao) on the Canadian Excellence in Research Chair project for the Network for Equity in Sustainability Transitions [(CERC NEST)](https://climatehealth.utoronto.ca/initiative/the-cerc-network-for-equity-in-sustainability-transitions/). My current research centers on the quantitative assessment of climate vulnerability, energy dynamics, and equity in sustainable transitions, using a comparative analysis across multiple cities.
 <br>
 Before joining the University of Toronto, I earned my Doctoral Degree in Geography at McGill University, where I was supervised by Prof.
- [Brian E Robinson](https://brianerobinson.com/) and Prof. [Christopher Barrington-Leigh](https://wellbeing.research.mcgill.ca/index.php?m=about). My doctoral dissertation examined the well-being impacts of the "Clean Heating Program" in rural North China. Prior to my doctoral studies, I completed my Master’s degree at the College of Environmental Sciences and Engineering, Peking University, under the supervision of Prof. [Shiqiu Zhang](https://en.cese.pku.edu.cn/faculty/facultybydepartment/departmentofmanagement/44/index.htm) and Prof. [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai).
- My research interests lie in Environmental Economics, Well-being, and Policy Evaluation, with a particular focus on the equity impacts of environmental and energy policies. My work has been published in international journals in various fields, including energy, environment, transportation, and health. <a href='https://scholar.google.com/citations?user=dqJxmR8AAAAJ&hl=zh-CN'><br>
+ [Brian E Robinson](https://brianerobinson.com/) and Prof. [Christopher Barrington-Leigh](https://wellbeing.research.mcgill.ca/index.php?m=about). My doctoral dissertation examined the well-being impacts of the "Clean Heating Program" in rural North China. Prior to my doctoral studies, I completed my Master’s degree at the College of Environmental Sciences and Engineering, Peking University, under the supervision of Prof. [Shiqiu Zhang](https://en.cese.pku.edu.cn/faculty/facultybydepartment/departmentofmanagement/44/index.htm) and Prof. [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai).<br>
+ My research interests lie in Environmental Economics, Well-being, and Policy Evaluation, with a particular focus on the equity impacts of environmental and energy policies. My work has been published in international journals in various fields, including energy, environment, transportation, and health.
 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03*: &nbsp;🎉🎉 I have joined the Department of Sociology, University of Toronto Scarborough as Postdoctoral Research Fellow. 
+- *2025.02*: &nbsp;🎉🎉 I finished my oral defense and finally became Dr. Zhang!
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
@@ -50,7 +51,7 @@ Before joining the University of Toronto, I earned my Doctoral Degree in Geograp
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09 - 2025.02*, Ph.D., Department of Geography, McGill University
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
