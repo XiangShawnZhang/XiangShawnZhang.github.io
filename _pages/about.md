@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: ""
+permalink: XiangShawnZhang.github.io
+title: "Xiang's Personal Webpage"
 excerpt: ""
 author_profile: true
 redirect_from: 
