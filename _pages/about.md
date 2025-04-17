@@ -1,6 +1,6 @@
 ---
-permalink: XiangShawnZhang.github.io
-title: "Xiang's Personal Webpage"
+permalink: /
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a Postdoctoral Fellow in the Department of Sociology at the University of Toronto Scarborough, working with Prof. [Patricia Romero-Lankao](https://discover.research.utoronto.ca/52972-patricia-romerolankao) on the Canadian Excellence in Research Chair project for the Network for Equity in Sustainability Transitions [(CERC NEST)](https://climatehealth.utoronto.ca/initiative/the-cerc-network-for-equity-in-sustainability-transitions/). My current research centers on the quantitative assessment of climate vulnerability, energy dynamics, and equity in sustainable transitions, using a comparative analysis across multiple cities.
+<br>
+My research interests lie in Environmental Economics, Well-being, and Policy Evaluation, with a particular focus on the equity impacts of environmental and energy policies. <br>
+Before joining the University of Toronto, I earned my Doctoral Degree in Geography at McGill University, where I was supervised by Prof.
+ [Brian E Robinson](https://brianerobinson.com/) and Prof. [Christopher Barrington-Leigh](https://wellbeing.research.mcgill.ca/index.php?m=about). My doctoral dissertation examined the well-being impacts of the "Clean Heating Program" in rural North China. Prior to my doctoral studies, I completed my Master’s degree at the College of Environmental Sciences and Engineering, Peking University, under the supervision of Prof. [Shiqiu Zhang](https://en.cese.pku.edu.cn/faculty/facultybydepartment/departmentofmanagement/44/index.htm) and Prof. [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai).
 
 
 # 🔥 News
