@@ -13,4 +13,12 @@ Huan Lin, **Xiang Zhang**, Yuhan Hu, Shiqiu Zhang
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCLP</div><img src='images/CHET.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Rural Household Energy Transition in China: Trends and Challenges](https://www.sciencedirect.com/science/article/pii/S0959652624013192) \\
+**Xiang Zhang**, Chris Barrington-Leigh, Brian E Robinson
+
+- Temporal Trends and Spatial Disparities in Rural Household Energy Transition in China
+</div>
+</div>
