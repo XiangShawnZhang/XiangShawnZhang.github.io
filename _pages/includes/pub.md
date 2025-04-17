@@ -10,7 +10,7 @@ Huan Lin, **Xiang Zhang**, Yuhan Hu, Shiqiu Zhang
 
 - Inequities in Health Impacts of Air Pollution Exposure During Subway Commuting in Megacities
 </div>
-</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCLP</div><img src='images/CHET.png' alt="sym" width="100%"></div></div>
