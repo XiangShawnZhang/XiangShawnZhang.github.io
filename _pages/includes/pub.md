@@ -6,9 +6,9 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BE</div><img src='images/B&E.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Investigating Indoor VOC Complexities in Rural Beijing: Environmental, Resident Behavioral, and Household Energy-Use Paradigms](https://www.sciencedirect.com/science/article/pii/S2214140524001117) \\
+[Investigating Indoor VOC Complexities in Rural Beijing: Environmental, Resident Behavioral, and Household Energy-Use Paradigms](https://www.sciencedirect.com/science/article/pii/S2214140524001117)\\ 
  Jian Ma, Xiaojing Zhu, Xiaoying Li et al. \\
-Building and Environment, 2025 (forthcoming) \\
+Building and Environment, 2025 (forthcoming) 
 - Assessment of Indoor VOC Exposure and Contributing Factors in North China Rural Households
 </div>
 </div>
@@ -19,7 +19,7 @@ Building and Environment, 2025 (forthcoming) \\
 
 [Unacknowledged health costs of subway transportation: commuting time dominant environmental inequality in PM2.5 exposure](https://www.sciencedirect.com/science/article/pii/S2214140524001117) \\
 Huan Lin, **Xiang Zhang**, Yuhan Hu, Shiqiu Zhang \\
-Journal of Transport & Health, 2024 \\
+Journal of Transport & Health, 2024 
 - Inequities in Health Impacts of Air Pollution Exposure During Subway Commuting in Megacities
 </div>
 </div>
@@ -30,19 +30,19 @@ Journal of Transport & Health, 2024 \\
 
 [Rural Household Energy Transition in China: Trends and Challenges](https://www.sciencedirect.com/science/article/pii/S0959652624013192) \\
 **Xiang Zhang**, Chris Barrington-Leigh, Brian E Robinson \\
-Journal of Cleaner Production, 2024 \\
-
+Journal of Cleaner Production, 2024 
 - Temporal Trends and Spatial Disparities in Rural Household Energy Transition in China
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EST</div><img src='images/equity.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JH</div><img src='images/hyper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Rural Household Energy Transition in China: Trends and Challenges](https://www.sciencedirect.com/science/article/pii/S0959652624013192) \\
-**Xiang Zhang**, Chris Barrington-Leigh, Brian E Robinson
-
-- Temporal Trends and Spatial Disparities in Rural Household Energy Transition in China
+[Effects of indoor and outdoor temperatures on blood pressure and central hemodynamics in a wintertime longitudinal study of Chinese adults](https://journals.lww.com/jhypertension/abstract/2022/10000/effects_of_indoor_and_outdoor_temperatures_on.12.aspx?context=featuredarticles&collectionid=1
+) \\
+Talia J Sternbach et al. \\
+Journal of Hypertension, 2022 
+- Wintertime home heating and high BP and cardiovascular disease risk in rural China elders
 </div>
 </div>
