@@ -39,10 +39,23 @@ Journal of Cleaner Production, 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JH</div><img src='images/hyper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Effects of indoor and outdoor temperatures on blood pressure and central hemodynamics in a wintertime longitudinal study of Chinese adults](https://journals.lww.com/jhypertension/abstract/2022/10000/effects_of_indoor_and_outdoor_temperatures_on.12.aspx?context=featuredarticles&collectionid=1
-) \\
-Talia J Sternbach et al. \\
+[Effects of indoor and outdoor temperatures on blood pressure and central hemodynamics in a wintertime longitudinal study of Chinese adults](https://journals.lww.com/jhypertension/abstract/2022/10000/effects_of_indoor_and_outdoor_temperatures_on.12.aspx?context=featuredarticles&collectionid=1) \\
+Talia J Sternbach, Sam Harper, Xiaoying Li et al. \\
 Journal of Hypertension, 2022 
-- Wintertime home heating and high BP and cardiovascular disease risk in rural China elders
+- 	Winter Home Heating and Cardiovascular Health Risks in Rural Elderly Populations in China
+
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T</div><img src='images/EST.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Socioeconomic and demographic associations with wintertime air pollution exposures at household, community, and district scales in rural Beijing, China](https://pubs.acs.org/doi/full/10.1021/acs.est.1c07402?casa_token=ZEltN-hEVFAAAAAA%3AZ0Hbr9mmGergdcmC4lP4DeeaoIhOmA7LY-lCGaykpSeHmhPw4A9FAOJTI099ey2TbNpqjJId5m2-cl8) \\
+Xiaoying Li, Jill Baumgartner, Christopher Barrington-Leigh et al. \\
+Environmental Science & Technology, 2022
+- 	Wealthier rural households used more coal, while less wealthy households used more biomass, but overall exposures were similar across socioeconomic groups
+
+</div>
+</div>
+
