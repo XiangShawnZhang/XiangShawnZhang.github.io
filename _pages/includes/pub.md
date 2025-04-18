@@ -6,7 +6,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BE</div><img src='images/B&E.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Investigating Indoor VOC Complexities in Rural Beijing: Environmental, Resident Behavioral, and Household Energy-Use Paradigms](https://www.sciencedirect.com/science/article/pii/S2214140524001117)\\ 
+[Investigating Indoor VOC Complexities in Rural Beijing: Environmental, Resident Behavioral, and Household Energy-Use Paradigms](https://www.sciencedirect.com/science/article/pii/S2214140524001117) \\ 
  Jian Ma, Xiaojing Zhu, Xiaoying Li et al. \\
 Building and Environment, 2025 (forthcoming) 
 - Assessment of Indoor VOC Exposure and Contributing Factors in North China Rural Households
@@ -59,7 +59,7 @@ Environmental Science & Technology, 2022
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T</div><img src='images/indoor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IA</div><img src='images/indoor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Field measurements of indoor and community air quality in rural Beijing before, during, and after the COVID‐19 lockdown](https://onlinelibrary.wiley.com/doi/full/10.1111/ina.13095) \\
