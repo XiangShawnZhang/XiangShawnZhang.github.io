@@ -59,3 +59,25 @@ Environmental Science & Technology, 2022
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T</div><img src='images/indoor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Field measurements of indoor and community air quality in rural Beijing before, during, and after the COVID‐19 lockdown](https://onlinelibrary.wiley.com/doi/full/10.1111/ina.13095) \\
+Xiaoying Li, Jill Baumgartner, Sam Harper et al. \\
+Indoor Air, 2022
+- 	Impacts of COVID-19 lockdown on rural households indoor air quality
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EP</div><img src='images/EP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Health and economic benefits of cleaner residential heating in the Beijing–Tianjin–Hebei region in China](https://www.sciencedirect.com/science/article/pii/S0301421518308048?casa_token=Bfddu8kUKbYAAAAA:uuA8muVaHGlFO2Utwb87BOzBQ2DdyKpx-ZSm1aR9ZhxML8fr55SZr5iMpxSlKOoqufgs0rTwiA) \\
+**Xiang Zhang**, Yana Jin, Hancheng Dai, Yang Xie, Shiqiu Zhang \\
+Energy Policy, 2019
+- 🔥 ESI 1% Highly Cited Paper in May 2023.
+- 	Environment, health and economic benefits of the "Clean Heating Policy" in Beijing-Tianjin-Hebei region
+</div>
+</div>
+
