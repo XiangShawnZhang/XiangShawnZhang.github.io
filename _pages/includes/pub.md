@@ -112,7 +112,7 @@ Under review, 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-EFfects of outdoor and household air pollution on hand grip strength in a longitudinal study of predominantly rural Beijing adults \\
+Effects of outdoor and household air pollution on hand grip strength in a longitudinal study of predominantly rural Beijing adults \\
 Wenlu Yuan, Xiaoying Li, Collin Brehmer, et al. \\
 Under review, 2025 
 - Air pollution and grip strength among rural adults: A health status indicator
