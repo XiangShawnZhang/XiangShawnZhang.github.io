@@ -85,7 +85,7 @@ Energy Policy, 2019
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/fuel_poverty.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Expenditure versus comfort: distributional impacts on household space heating energy transition program in rural China \\
-**Xiang Zhang**, Chris Barrington-Leigh and Brian Robinson, et al. \\
+**Xiang Zhang**, Chris Barrington-Leigh, Brian Robinson, et al. \\
 In preparation, 2025 
 - 	Impacts of energy transition on rural household's energy poverty
 </div>
@@ -94,7 +94,7 @@ In preparation, 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/well-being.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Household Energy Transition and Subjective Well-being: A Difference-in-Difference Estimate of Outcomes in Rural North China \\
-**Xiang Zhang**, Chris Barrington-Leigh and Brian Robinson, et al. \\
+**Xiang Zhang**, Chris Barrington-Leigh, Brian Robinson, et al. \\
 In preparation, 2025 
 - How do households experience the impact of clean heating on their quality of life
 </div>
