@@ -2,8 +2,7 @@ I am currently a Postdoctoral Fellow in the Department of Sociology at the Unive
 <br>
 Before joining the University of Toronto, I earned my Doctoral Degree in Geography at McGill University, where I was supervised by Prof.
  [Brian E Robinson](https://brianerobinson.com/) and Prof. [Christopher Barrington-Leigh](https://wellbeing.research.mcgill.ca/index.php?m=about). My doctoral dissertation examined the well-being impacts of the "Clean Heating Program" in rural North China. Prior to my doctoral studies, I completed my Master’s degree at the College of Environmental Sciences and Engineering, Peking University, under the supervision of Prof. [Shiqiu Zhang](https://en.cese.pku.edu.cn/faculty/facultybydepartment/departmentofmanagement/44/index.htm) and Prof. [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai).<br>
-My research interests lie in Environmental Economics, Well-being, and Policy Evaluation, with a particular focus on the equity impacts of environmental and energy policies. My work My work has been published in international journals in various fields, including energy, environment, transportation, and health. <a href="https://scholar.google.com/citations?user=dqJxmR8AAAAJ&hl">
-  <img src="https://cdn.jsdelivr.net/gh/XiangShawnZhang/XiangShawnZhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a> <br>
+My research interests lie in Environmental Economics, Well-being, and Policy Evaluation, with a particular focus on the equity impacts of environmental and energy policies. My work My work has been published in international journals in various fields, including energy, environment, transportation, and health. <br>
+You can find the latest version of my [CV](/docs/CV.pdf) or [中文简历](/docs/中文简历.pdf). </a> <br>
 
 
