@@ -7,7 +7,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Investigating Indoor VOC Complexities in Rural Beijing: Environmental, Resident Behavioral, and Household Energy-Use Paradigms](https://www.sciencedirect.com/science/article/pii/S2214140524001117) \\ 
- Jian Ma, Xiaojing Zhu, Xiaoying Li et al. \\
+ Jian Ma, Xiaojing Zhu, Xiaoying Li, et al. \\
 Building and Environment, 2025 (forthcoming) 
 - Assessment of Indoor VOC Exposure and Contributing Factors in North China Rural Households
 </div>
@@ -40,7 +40,7 @@ Journal of Cleaner Production, 2024
 <div class='paper-box-text' markdown="1">
 
 [Effects of indoor and outdoor temperatures on blood pressure and central hemodynamics in a wintertime longitudinal study of Chinese adults](https://journals.lww.com/jhypertension/abstract/2022/10000/effects_of_indoor_and_outdoor_temperatures_on.12.aspx?context=featuredarticles&collectionid=1) \\
-Talia J Sternbach, Sam Harper, Xiaoying Li et al. \\
+Talia J Sternbach, Sam Harper, Xiaoying Li, et al. \\
 Journal of Hypertension, 2022 
 - 	Winter Home Heating and Cardiovascular Health Risks in Rural Elderly Populations in China
 
@@ -52,7 +52,7 @@ Journal of Hypertension, 2022
 <div class='paper-box-text' markdown="1">
 
 [Socioeconomic and demographic associations with wintertime air pollution exposures at household, community, and district scales in rural Beijing, China](https://pubs.acs.org/doi/full/10.1021/acs.est.1c07402?casa_token=ZEltN-hEVFAAAAAA%3AZ0Hbr9mmGergdcmC4lP4DeeaoIhOmA7LY-lCGaykpSeHmhPw4A9FAOJTI099ey2TbNpqjJId5m2-cl8) \\
-Xiaoying Li, Jill Baumgartner, Christopher Barrington-Leigh et al. \\
+Xiaoying Li, Jill Baumgartner, Christopher Barrington-Leigh, et al. \\
 Environmental Science & Technology, 2022
 - 	Wealthier rural households used more coal, while less wealthy households used more biomass, but overall exposures were similar across socioeconomic groups
 
@@ -63,7 +63,7 @@ Environmental Science & Technology, 2022
 <div class='paper-box-text' markdown="1">
 
 [Field measurements of indoor and community air quality in rural Beijing before, during, and after the COVID‐19 lockdown](https://onlinelibrary.wiley.com/doi/full/10.1111/ina.13095) \\
-Xiaoying Li, Jill Baumgartner, Sam Harper et al. \\
+Xiaoying Li, Jill Baumgartner, Sam Harper, et al. \\
 Indoor Air, 2022
 - 	Impacts of COVID-19 lockdown on rural households indoor air quality
 </div>
@@ -84,13 +84,70 @@ Energy Policy, 2019
 ## 🖊️ Working Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/fuel_poverty.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Expenditure versus comfort:
-distributional impacts on household space heating energy transition program in rural China] \\
-**Xiang Zhang**, Chris Barrington-Leigh and Brian Robinson et al. \\
+Expenditure versus comfort: distributional impacts on household space heating energy transition program in rural China \\
+**Xiang Zhang**, Chris Barrington-Leigh and Brian Robinson, et al. \\
 In preparation, 2025 
 - 	Impacts of energy transition on rural household's energy poverty
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/well-being.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Household Energy Transition and Subjective Well-being: A Difference-in-Difference Estimate of Outcomes in Rural North China \\
+**Xiang Zhang**, Chris Barrington-Leigh and Brian Robinson, et al. \\
+In preparation, 2025 
+- How do households experience the impact of clean heating on their quality of life
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+EFfects of outdoor and household air pollution on hand grip strength in a longitudinal study of predominantly rural Beijing adults \\
+Yuan Wenlu, Li Xiaoying, Brehmer Collin, et al. \\
+Under review, 2025 
+- Air pollution and grip strength among rural adults: A health status indicator
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+EFfects of outdoor and household air pollution on hand grip strength in a longitudinal study of predominantly rural Beijing adults \\
+Wenlu Yuan, Xiaoying Li, Collin Brehmer, et al. \\
+Under review, 2025 
+- Air pollution and grip strength among rural adults: A health status indicator
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+China's Clean Heating Policy and Effects on Blood Pressure \\
+Talia Sternbach, et al. \\
+In preparation, 2025 
+- Treatment effects of the "Clean Heating Policy" on rural adult's blood pressure
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Coal-to-Clean-Energy Policy (CCEP) on Indoor, Outdoor, and Personal Exposure to PM_{2.5} in Beijing, China \\
+Xiaoying Li, Collin Brehmer, Kennedy Hirst, et al. \\
+In preparation, 2025 
+- A comprehensive evaluation of the "Clean Heating Policy" on air quality
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Impacts of a clean heating program on heating stove usage in Northern China \\
+Brehmer C, Sternbach T, Enkhuun Byambadorj, et al. \\
+In preparation, 2025 
+- A fast and low-cost monitoring approach for household stove use behavior
+</div>
+</div>
+
+
+
 
 
 
