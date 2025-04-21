@@ -7,5 +7,4 @@ My research interests lie in Environmental Economics, Well-being, and Policy Eva
 You can find the latest version of my <a href="/docs/Xiang-Resume-March2025.pdf" target="_blank">CV</a> or <a href="/docs/resume-chinese.pdf" target="_blank">中文简历</a>.
 <br>
 
-<a href="../../docs/Xiang-Resume-March2025.pdf" target="_blank">CV</a>
-
+<a href="/XiangShawnZhang.github.io/docs/Xiang-Resume-March2025.pdf" target="_blank">CV</a>
