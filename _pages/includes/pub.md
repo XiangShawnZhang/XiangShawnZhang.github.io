@@ -20,7 +20,7 @@ Building and Environment, 2025 (forthcoming)
 [Unacknowledged health costs of subway transportation: commuting time dominant environmental inequality in PM2.5 exposure](https://www.sciencedirect.com/science/article/pii/S2214140524001117) \\
 Huan Lin, **Xiang Zhang**, Yuhan Hu, Shiqiu Zhang \\
 Journal of Transport & Health, 2024 \\
-[**Abstract**](https://www.dropbox.com/scl/fi/mkjn6d5a8hmn7gxl9aasb/JTH-abstract.pdf?rlkey=p5715xuz9rrqv21bppia7gfp0&st=3bece1n2&dl=0)\\
+[**Abstract**](https://www.dropbox.com/scl/fi/mkjn6d5a8hmn7gxl9aasb/JTH-abstract.pdf?rlkey=p5715xuz9rrqv21bppia7gfp0&st=3bece1n2&dl=0)
 
 - Inequities in Health Impacts of Air Pollution Exposure During Subway Commuting in Megacities
 </div>
