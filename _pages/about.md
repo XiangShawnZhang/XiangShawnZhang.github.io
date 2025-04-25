@@ -27,3 +27,4 @@ redirect_from:
 
 {% include_relative includes/education.md %}
 
+{% include_relative includes/teaching.md %}
