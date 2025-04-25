@@ -1,4 +1,4 @@
-# 🧑🏻‍🏫Teaching
+# 🧑🏻‍🏫 Teaching
 
 ### McGill University, Montreal, Quebec, Canada <br>
 **Teaching Assistant** <br>
