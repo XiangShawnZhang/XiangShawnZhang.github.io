@@ -6,9 +6,10 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BE</div><img src='images/B&E.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Investigating Indoor VOC Complexities in Rural Beijing: Environmental, Resident Behavioral, and Household Energy-Use Paradigms](https://www.sciencedirect.com/science/article/pii/S2214140524001117) \\ 
+[Investigating Indoor VOC Complexities in Rural Beijing: Environmental, Resident Behavioral, and Household Energy-Use Paradigms](https://www.sciencedirect.com/science/article/pii/S0360132325005232) \\ 
  Jian Ma, Xiaojing Zhu, Xiaoying Li, et al. \\
-Building and Environment, 2025 (forthcoming) 
+Building and Environment, 2025 \\
+[**Abstract**]
 - Assessment of Indoor VOC Exposure and Contributing Factors in North China Rural Households
 </div>
 </div>
