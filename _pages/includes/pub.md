@@ -7,7 +7,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Investigating Indoor VOC Complexities in Rural Beijing: Environmental, Resident Behavioral, and Household Energy-Use Paradigms](https://www.sciencedirect.com/science/article/pii/S0360132325005232) \\ 
- Jian Ma, Xiaojing Zhu, Xiaoying Li, et al. \\
+Jian Ma, Xiaojing Zhu, Xiaoying Li, et al. \\
 Building and Environment, 2025 \\
 [**Abstract**](https://www.dropbox.com/scl/fi/f8ldaw9h2lj6kaw5w9gly/BE-abstract.pdf?rlkey=nzds10zirwr7s04lnqgrr4cc2&st=270lrt3m&dl=0)
 - Assessment of Indoor VOC Exposure and Contributing Factors in North China Rural Households
