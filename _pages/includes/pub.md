@@ -105,12 +105,22 @@ In preparation, 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+Multi-Year Evaluation of a Clean Heating Policy on Residents' Air Pollution Exposures and Energy Trade-offs in Beijing, China \\
+Xiaoying Li, Collin Brehmer, Kennedy Hirst, et al. \\
+Under review, 2025 
+- A comprehensive evaluation of the ``Clean Heating Policy" on air quality
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 Effects of outdoor and household air pollution on hand grip strength in a longitudinal study of predominantly rural Beijing adults \\
 Wenlu Yuan, Xiaoying Li, Collin Brehmer, et al. \\
 Under review, 2025 
 - Air pollution and grip strength among rural adults: A health status indicator
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -121,14 +131,7 @@ In preparation, 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Coal-to-Clean-Energy Policy (CCEP) on Indoor, Outdoor, and Personal Exposure to PM_{2.5} in Beijing, China \\
-Xiaoying Li, Collin Brehmer, Kennedy Hirst, et al. \\
-In preparation, 2025 
-- A comprehensive evaluation of the "Clean Heating Policy" on air quality
-</div>
-</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
