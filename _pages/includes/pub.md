@@ -131,6 +131,16 @@ In preparation, 2025
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Effects of China’s Clean Heating Policy on respiratory symptoms and airway inflammation in adults: a quasi-experimental study in rural Beijing\\
+Kaibing Xue, et al. \\
+In preparation, 2025 
+- Treatment effects of the "Clean Heating Policy" on rural adult's respiratory health 
+</div>
+</div>
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
