@@ -10,9 +10,9 @@
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-[Multi-year Evaluation of a Clean Heating Policy on Residents' Air Pollution Exposures in Beijing, China](https://pubs.acs.org/doi/abs/10.1021/acs.est.5c05769) \
-Xiaoying Li, Collin Brehmer, Kennedy Hirst, et al. \
-Environmental Science & Technology, 2025 \\
+[Multi-year Evaluation of a Clean Heating Policy on Residents' Air Pollution Exposures in Beijing, China](https://pubs.acs.org/doi/abs/10.1021/acs.est.5c05769) <br>
+Xiaoying Li, Collin Brehmer, Kennedy Hirst, et al. <br>
+Environmental Science & Technology, 2025 <br>
 -  A comprehensive evaluation of the "Clean Heating Policy" on air quality: indoor, outdoor, and personal exposure
   </div>
 </div>
@@ -28,7 +28,7 @@ International Journal of Environmental Research and Public Health, 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BE</div><img src='images/B&E.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Investigating Indoor VOC Complexities in Rural Beijing: Environmental, Resident Behavioral, and Household Energy-Use Paradigms](https://www.sciencedirect.com/science/article/pii/S0360132325005232) \\ 
+[Investigating Indoor VOC Complexities in Rural Beijing: Environmental, Resident Behavioral, and Household Energy-Use Paradigms](https://www.sciencedirect.com/science/article/pii/S0360132325005232) <br>
 Jian Ma, Xiaojing Zhu, Xiaoying Li, et al. \\
 Building and Environment, 2025 \\
 [**Abstract**](https://www.dropbox.com/scl/fi/f8ldaw9h2lj6kaw5w9gly/BE-abstract.pdf?rlkey=nzds10zirwr7s04lnqgrr4cc2&st=270lrt3m&dl=0)
