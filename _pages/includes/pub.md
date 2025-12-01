@@ -2,6 +2,17 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BE</div><img src='images/est2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-year Evaluation of a Clean Heating Policy on Residents’ Air Pollution Exposures in Beijing, China]([https://www.sciencedirect.com/science/article/pii/S0360132325005232](https://pubs.acs.org/doi/abs/10.1021/acs.est.5c05769)) \\ 
+Xiaoying LiCollin BrehmerKennedy Hirst, et al. \\
+Environmental Science & Technology, 2025 \\
+[**Abstract**](https://www.dropbox.com/scl/fi/f8ldaw9h2lj6kaw5w9gly/BE-abstract.pdf?rlkey=nzds10zirwr7s04lnqgrr4cc2&st=270lrt3m&dl=0)
+-  A comprehensive evaluation of the ``Clean Heating Policy" on air quality
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BE</div><img src='images/B&E.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
