@@ -51,7 +51,9 @@ Journal of Transport & Health, 2024 \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCLP</div><img src='images/CHET.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCLP</div><img src='images/CHET.png' alt="sym" width="80%" style="margin: 0 auto; display: block;">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
 [Rural Household Energy Transition in China: Trends and Challenges](https://www.sciencedirect.com/science/article/pii/S0959652624013192) \\
@@ -62,7 +64,9 @@ Journal of Cleaner Production, 2024
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JH</div><img src='images/hyper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JH</div><img src='images/hyper.png' alt="sym" width="80%" style="margin: 0 auto; display: block;">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
 [Effects of indoor and outdoor temperatures on blood pressure and central hemodynamics in a wintertime longitudinal study of Chinese adults](https://journals.lww.com/jhypertension/abstract/2022/10000/effects_of_indoor_and_outdoor_temperatures_on.12.aspx?context=featuredarticles&collectionid=1) \\
@@ -74,7 +78,9 @@ Journal of Hypertension, 2022
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T</div><img src='images/EST.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T</div><img src='images/EST.png' alt="sym" width="80%" style="margin: 0 auto; display: block;">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
 [Socioeconomic and demographic associations with wintertime air pollution exposures at household, community, and district scales in rural Beijing, China](https://pubs.acs.org/doi/full/10.1021/acs.est.1c07402?casa_token=ZEltN-hEVFAAAAAA%3AZ0Hbr9mmGergdcmC4lP4DeeaoIhOmA7LY-lCGaykpSeHmhPw4A9FAOJTI099ey2TbNpqjJId5m2-cl8) \\
@@ -85,7 +91,9 @@ Environmental Science & Technology, 2022
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IA</div><img src='images/indoor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IA</div><img src='images/indoor.png' alt="sym" width="80%" style="margin: 0 auto; display: block;">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
 [Field measurements of indoor and community air quality in rural Beijing before, during, and after the COVID‐19 lockdown](https://onlinelibrary.wiley.com/doi/full/10.1111/ina.13095) \\
@@ -96,7 +104,9 @@ Indoor Air, 2022
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EP</div><img src='images/EP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EP</div><img src='images/EP.png' alt="sym" width="80%" style="margin: 0 auto; display: block;">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
 [Health and economic benefits of cleaner residential heating in the Beijing–Tianjin–Hebei region in China](https://www.sciencedirect.com/science/article/pii/S0301421518308048?casa_token=Bfddu8kUKbYAAAAA:uuA8muVaHGlFO2Utwb87BOzBQ2DdyKpx-ZSm1aR9ZhxML8fr55SZr5iMpxSlKOoqufgs0rTwiA) \\
