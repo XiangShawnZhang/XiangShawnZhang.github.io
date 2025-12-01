@@ -20,10 +20,8 @@ International Journal of Environmental Research and Public Health, 2025
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BE</div><img src='images/B&E.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Investigating Indoor VOC Complexities in Rural Beijing: Environmental, Resident Behavioral, and Household Energy-Use Paradigms](https://www.sciencedirect.com/science/article/pii/S0360132325005232) \\ 
 Jian Ma, Xiaojing Zhu, Xiaoying Li, et al. \\
 Building and Environment, 2025 \\
