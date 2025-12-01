@@ -15,7 +15,7 @@ Environmental Science & Technology, 2025 \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">
 IJERPH</div><img src='images/IJERPH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Effects of outdoor and household air pollution on hand grip strength in a longitudinal study of predominantly rural Beijing adults \\
+[Effects of outdoor and household air pollution on hand grip strength in a longitudinal study of predominantly rural Beijing adults]([https://www.mdpi.com/1660-4601/22/8/1283]) \\
 Wenlu Yuan, Xiaoying Li, Collin Brehmer, et al. \\
 International Journal of Environmental Research and Public Health, 2025 
 - Air pollution and grip strength among rural adults: A health status indicator
