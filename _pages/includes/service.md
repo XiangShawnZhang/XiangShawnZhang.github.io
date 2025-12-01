@@ -6,7 +6,7 @@
 <ul style="margin:0 0 20px;">
 
   <li><a href="https://www.nature.com/natsustain/"><autocolor>Nature Sustainability</autocolor></a></li>
-
+    <li><a href="https://www.nature.com/npjurbansustain/"><autocolor>npj Urban Sustainability</autocolor></a></li>
   <li><a href="https://iopscience.iop.org/journal/1748-9326"><autocolor>Environmental Research Letters</autocolor></a></li>
   
  <li><a href="https://iopscience.iop.org/journal/2515-7620"><autocolor>Environmental Research Communications</autocolor></a></li>
