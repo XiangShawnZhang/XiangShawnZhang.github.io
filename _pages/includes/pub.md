@@ -78,7 +78,7 @@ Journal of Hypertension, 2022
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T</div><img src='images/EST.png' alt="sym" width="80%" style="margin: 0 auto; display: block;">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T</div><img src='images/EST.png' alt="sym" width="70%" style="margin: 0 auto; display: block;">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -104,7 +104,7 @@ Indoor Air, 2022
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EP</div><img src='images/EP.png' alt="sym" width="80%" style="margin: 0 auto; display: block;">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EP</div><img src='images/EP.png' alt="sym" width="70%" style="margin: 0 auto; display: block;">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
