@@ -2,14 +2,23 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BE</div><img src='images/est2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EST</div><img src='images/est2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-year Evaluation of a Clean Heating Policy on Residents’ Air Pollution Exposures in Beijing, China]([https://www.sciencedirect.com/science/article/pii/S0360132325005232](https://pubs.acs.org/doi/abs/10.1021/acs.est.5c05769)) \\ 
 Xiaoying LiCollin BrehmerKennedy Hirst, et al. \\
 Environmental Science & Technology, 2025 \\
-[**Abstract**](https://www.dropbox.com/scl/fi/f8ldaw9h2lj6kaw5w9gly/BE-abstract.pdf?rlkey=nzds10zirwr7s04lnqgrr4cc2&st=270lrt3m&dl=0)
--  A comprehensive evaluation of the ``Clean Heating Policy" on air quality
+-  A comprehensive evaluation of the ``Clean Heating Policy" on air quality: indoor, outdoor, and personal exposure
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">
+IJERPH</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Effects of outdoor and household air pollution on hand grip strength in a longitudinal study of predominantly rural Beijing adults \\
+Wenlu Yuan, Xiaoying Li, Collin Brehmer, et al. \\
+International Journal of Environmental Research and Public Health, 2025 
+- Air pollution and grip strength among rural adults: A health status indicator
 </div>
 </div>
 
@@ -113,25 +122,6 @@ In preparation, 2025
 - How do households experience the impact of clean heating on their quality of life
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Multi-Year Evaluation of a Clean Heating Policy on Residents' Air Pollution Exposures and Energy Trade-offs in Beijing, China \\
-Xiaoying Li, Collin Brehmer, Kennedy Hirst, et al. \\
-Under review, 2025 
-- A comprehensive evaluation of the ``Clean Heating Policy" on air quality
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Effects of outdoor and household air pollution on hand grip strength in a longitudinal study of predominantly rural Beijing adults \\
-Wenlu Yuan, Xiaoying Li, Collin Brehmer, et al. \\
-Under review, 2025 
-- Air pollution and grip strength among rural adults: A health status indicator
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
