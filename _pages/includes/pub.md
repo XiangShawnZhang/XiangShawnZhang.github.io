@@ -140,7 +140,8 @@ In preparation, 2025
 <div class='paper-box-text' markdown="1">
 China's Clean Heating Policy and Effects on Blood Pressure \\
 Talia Sternbach, et al. \\
-In preparation, 2025 
+Submitted
+  , 2025 
 - Treatment effects of the "Clean Heating Policy" on rural adult's blood pressure
 </div>
 </div>
@@ -155,13 +156,11 @@ In preparation, 2025
 </div>
 
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Working</div><img src='images/coming.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Impacts of a clean heating program on heating stove usage in Northern China \\
+Impacts of a Coal-to-Clean Heating Policy on Untargeted Biomass Stove Use in Rural Beijing \\
 Brehmer C, Sternbach T, Enkhuun Byambadorj, et al. \\
-In preparation, 2025 
+Submitted, 2025 
 - A fast and low-cost monitoring approach for household stove use behavior
 </div>
 </div>
