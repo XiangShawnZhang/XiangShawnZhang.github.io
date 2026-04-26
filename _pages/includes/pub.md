@@ -5,6 +5,21 @@
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">AJRCCM</div>
+      <img src='images/AJRCCM.png' alt="sym" width="80%" style="margin: 0 auto; display: block;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+[Effects of China’s Clean Heating Policy on respiratory symptoms and airway inflammation in adults: a quasi-experimental study in rural Beijing]([https://pubs.acs.org/doi/abs/10.1021/acs.est.5c05769](https://academic.oup.com/ajrccm/advance-article-abstract/doi/10.1093/ajrccm/aamag181/8660447?redirectedFrom=fulltext)) <br>
+Kaibing Xue, Jill Baumgartner, Sam Harper, et al. <br>
+American Journal of Respiratory and Critical Care Medicine, 2026 <br>
+-  Empirical evidence that household energy intervention can yield health benefits.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">EST</div>
       <img src='images/est2.png' alt="sym" width="80%" style="margin: 0 auto; display: block;">
     </div>
