@@ -10,6 +10,21 @@
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
+[China’s Clean Heating Policy and Effects on Blood Pressure in Rural Beijing Adults](https://pubs.acs.org/evhpaz/article/doi/10.1021/EHP.6c00053/5352042/China-s-Clean-Heating-Policy-and-Effects-on-Blood) <br>
+Talia Sternbach,  Sam Harper, Xiaoying Li, et al. <br>
+Environmental Health Perspectives, 2026 <br>
+-  This study finds that China's Clean Heating Policy, which replaced coal-based residential heating with cleaner energy sources, contributed to reductions in blood pressure among rural residents, highlighting the potential cardiovascular health benefits of household energy transitions.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">AJRCCM</div>
+      <img src='images/AJRCCM.png' alt="sym" width="80%" style="margin: 0 auto; display: block;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 [Effects of China’s Clean Heating Policy on respiratory symptoms and airway inflammation in adults: a quasi-experimental study in rural Beijing](https://academic.oup.com/ajrccm/advance-article-abstract/doi/10.1093/ajrccm/aamag181/8660447?redirectedFrom=fulltext) <br>
 Kaibing Xue, Jill Baumgartner, Sam Harper, et al. <br>
 American Journal of Respiratory and Critical Care Medicine, 2026 <br>
