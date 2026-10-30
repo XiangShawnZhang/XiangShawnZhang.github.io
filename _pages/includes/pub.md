@@ -6,7 +6,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">AJRCCM</div>
-      <img src='images/AJRCCM.png' alt="sym" width="80%" style="margin: 0 auto; display: block;">
+      <img src='images/TS-EHP.png' alt="sym" width="80%" style="margin: 0 auto; display: block;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
