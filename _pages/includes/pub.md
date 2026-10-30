@@ -5,7 +5,7 @@
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">AJRCCM</div>
+      <div class="badge">EHP</div>
       <img src='images/TS-EHP.png' alt="sym" width="80%" style="margin: 0 auto; display: block;">
     </div>
   </div>
